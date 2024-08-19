@@ -1,0 +1,27 @@
+
+button_hover.jpg
+size: 531,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_btn_vfx_a_add
+  rotate: false
+  xy: 1, 1
+  size: 465, 243
+  orig: 465, 243
+  offset: 0, 0
+  index: -1
+tw_btn_vfx_b_01_add
+  rotate: false
+  xy: 468, 182
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+tw_btn_vfx_b_02_add
+  rotate: false
+  xy: 468, 137
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
